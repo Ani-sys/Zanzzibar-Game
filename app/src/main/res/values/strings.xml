@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework Second Part</string>
+    <string name="player_one">Player1</string>
+    <string name="score">Score</string>
+    <string name="score_for_first_player">Score:</string>
+    <string name="current_score_is">Current score is:</string>
+    <string name="roll">Roll</string>
+    <string name="roll_second">Roll</string>
+    <string name="player2">Player2</string>
+</resources>
